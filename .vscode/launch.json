@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mohamedali/Desktop/Algorithm and PS Level 02/Stone - Paper - Scissor Game",
+      "program": "/Users/mohamedali/Desktop/Algorithm and PS Level 02/Stone - Paper - Scissor Game/build/Debug/outDebug"
+    }
+  ]
+}
